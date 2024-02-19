@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "multiprocessing-for-loop-python"
+name = "multiprocessing-iterator"
 version = "0.1.0"
 description = "Python library to import a for loop which runs multiple asynchronous processes"
 authors = ["Sankara Dinesh <ysdinesh31@gmail.com>"]
